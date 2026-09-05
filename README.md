@@ -10,6 +10,7 @@ Sou entusiasta de tecnologia e desenvolvimento de software. Atualmente, estou cu
 
 ## 🛠️ Tecnologias e Ferramentas
 <div>
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"
   <img align="center" alt="JavaScript" height="30" width="40" src="https://githubusercontent.com">
   <img align="center" alt="React" height="30" width="40" src="https://githubusercontent.com">
   <img align="center" alt="Git" height="30" width="40" src="https://githubusercontent.com">
