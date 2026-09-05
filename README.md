@@ -10,12 +10,12 @@ Sou entusiasta de tecnologia e desenvolvimento de software. Atualmente, estou cu
 
 ## 🛠️ Tecnologias e Ferramentas
 <div>
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png">
+  <img align="center" alt="VS Code" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">
+  <img align="center" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png">
 </div>
 
 ---
